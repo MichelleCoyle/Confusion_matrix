@@ -1,4 +1,4 @@
-### Confusion matrix
+### Logistic Regression Model with Confusion matrix
 
 The data came from [Kaggle](https://www.kaggle.com/datasets/johnsmith88/heart-disease-dataset?select=heart.csv)
 
